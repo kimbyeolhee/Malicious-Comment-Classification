@@ -12,7 +12,8 @@
 - Web Framework: Flask
 
 ## 프로젝트 상세 내용
-- 프로젝트 목적
+- 문제 정의 및 주제 선정
+
 비속어 뿐만 아니라 맥락까지 고려하여 악성 댓글을 분류해 낼 수 있는 시스템
 - 데이터셋 구축
     - 데이터 출처: Korean HateSpeech Dataset, APEACH Datasets, 각 종 사이트 댓글 크롤링 후 선별
