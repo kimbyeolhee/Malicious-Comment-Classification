@@ -36,7 +36,18 @@
 
 
 ## Structure
-
+```
+Malicious-Comment-Classification-System
+├─ .gitignore
+├─ data
+├─ dataloader
+├─ KoBERT
+├─ model
+├─ preprocessing
+├─ README.md
+├─ service
+└─ train
+```
 
 ## How to install KoBERT 
 https://github.com/SKTBrain/KoBERT
